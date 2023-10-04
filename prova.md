@@ -1,4 +1,4 @@
-# __Rafael Augusto Urzeda Almeida__                                         ![]
+# __Rafael Augusto Urzeda Almeida__                                         ![https://github.com/raurzeda-dawi/llm/edit/main/descarga.jpg]
 ##### Curriculum vitae
 
 
