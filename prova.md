@@ -22,5 +22,6 @@
 + ACNUR como captador ONG (septiembre 2020)
 + Pedro Fluxà operario agrario (Diciembre 2022, Marzo 2023)
 + Acciona Airport Services como operario carretero (Junio 2022, Octubre 2023)
++ esto es una prueba de si editando en vsestudio se edita en github
 
  
